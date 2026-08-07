@@ -1,0 +1,50 @@
+{
+  "nyc": [
+    "Hillstone",
+    "Emmett's on Grove",
+    "Monkey Bar",
+    "Misi",
+    "L'Artusi",
+    "Minetta Tavern",
+    "Don Angie",
+    "Raoul's",
+    "Dante",
+    "Red Hook Tavern",
+    "Tatiana",
+    "Roscioli",
+    "Lilia",
+    "Pastis",
+    "Rezdora",
+    "Au Cheval"
+  ],
+  "london": [
+    "The Devonshire",
+    "Crisp Pizza Mayfair",
+    "Nina",
+    "The Hart",
+    "Bottarga",
+    "Berenjak Mayfair",
+    "Dover Street Counter",
+    "Osteria Angelina",
+    "Berenjak",
+    "Trattoria Brutto",
+    "Bouchon Racine"
+  ],
+  "high_recognition": [
+    "Carbone",
+    "Via Carota",
+    "Torrisi",
+    "Semma",
+    "The Wolseley",
+    "Brat"
+  ],
+  "competitors": [
+    "TableOne",
+    "Appointment Trader",
+    "Resy Notify",
+    "Dorsia",
+    "Snatch'd",
+    "SnagNYC",
+    "Ambl"
+  ]
+}
